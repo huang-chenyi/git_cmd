@@ -68,4 +68,4 @@
     
     将/path/to/another/folder替换为另一个文件夹的实际路径。
 
-19. 
+19. git status：查看暂存区的内容
