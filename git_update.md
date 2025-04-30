@@ -65,7 +65,7 @@
 
 ## 拉取云端内容
 
-1. git pull origin branch-name
+1. git pull origin branch-name (main)
 
     运行命令将远程仓库的最新提交合并到当前分支：
 
